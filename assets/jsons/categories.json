@@ -1,0 +1,446 @@
+{
+  "categoriesList": [
+    {
+      "categoryId": "1",
+      "category_name": "Main",
+      "algolia_search_string":null,
+      "subCategories": []
+    },
+    {
+      "categoryId": "2",
+      "category_name": "Technology",
+      "algolia_search_string":"Technology",
+      "subCategories": [
+        {
+          "categoryId": "1",
+          "category": "Mobile",
+          "category_image": "assets/images/subcategories/tech/Mobile.jpg",
+          "algolia_search_string": "Mobile_Phones"
+        },
+        {
+          "categoryId": "2",
+          "category": "Computer",
+          "category_image": "assets/images/subcategories/tech/Computer.jpg",
+          "algolia_search_string": "Technology"
+        },
+        {
+          "categoryId": "3",
+          "category": "Camera",
+          "category_image": "assets/images/subcategories/tech/Camera.jpg",
+          "algolia_search_string": "Camera"
+        },
+        {
+          "categoryId": "4",
+          "category": "Gaming",
+          "category_image": "assets/images/subcategories/tech/Gaming.jpg",
+          "algolia_search_string": "Gaming"
+        },
+        {
+          "categoryId": "5",
+          "category": "Mobile Accs",
+          "category_image": "assets/images/subcategories/tech/mobile_acc.jpg",
+          "algolia_search_string": "Mobile Accessories"
+        },
+        {
+          "categoryId": "6",
+          "category": "Computer Accs",
+          "category_image": "assets/images/subcategories/tech/comp_acc.jpg",
+          "algolia_search_string": "Computer Accessories"
+        },
+        {
+          "categoryId": "7",
+          "category": "Car Accs",
+          "category_image": "assets/images/subcategories/tech/Car Accs.jpg",
+          "algolia_search_string": "Car Accessories"
+        },
+        {
+          "categoryId": "8",
+          "category": "Watches",
+          "category_image": "assets/images/subcategories/tech/Watches.jpg",
+          "algolia_search_string": "Watches"
+        }
+      ]
+    },
+    {
+      "categoryId": "3",
+      "category_name": "Women's Fashion",
+      "algolia_search_string":"Women-s_Fashion",
+      "subCategories": [
+        {
+          "categoryId": "1",
+          "category": "Tops",
+          "category_image": "assets/images/subcategories/women_fashion/Tops.jpg",
+          "algolia_search_string": "Tops"
+        },
+        {
+          "categoryId": "2",
+          "category": "Jackets",
+          "category_image": "assets/images/subcategories/women_fashion/Jackets.jpg",
+          "algolia_search_string": "Jackets"
+        },
+        {
+          "categoryId": "3",
+          "category": "Hoodies",
+          "category_image": "assets/images/subcategories/women_fashion/Hoodies.jpg",
+          "algolia_search_string": "Hoodies"
+        },
+        {
+          "categoryId": "4",
+          "category": "Dresses",
+          "category_image": "assets/images/subcategories/women_fashion/Dresses.jpg",
+          "algolia_search_string": "Dresses"
+        },
+        {
+          "categoryId": "5",
+          "category": "Elegant Dresses",
+          "category_image": "assets/images/subcategories/women_fashion/Elegant Dresses.jpg",
+          "algolia_search_string": "Elegant Dresses"
+        },
+        {
+          "categoryId": "6",
+          "category": "Sleep wear",
+          "category_image": "assets/images/subcategories/women_fashion/Sleep wear.jpg",
+          "algolia_search_string": "Sleep wear"
+        },
+        {
+          "categoryId": "7",
+          "category": "Sport wear",
+          "category_image": "assets/images/subcategories/women_fashion/Sports wear.jpg",
+          "algolia_search_string": "Sport wear"
+        },
+        {
+          "categoryId": "8",
+          "category": "Swim wear",
+          "category_image": "assets/images/subcategories/women_fashion/Swim wear.jpg",
+          "algolia_search_string": "Swim wear"
+        },
+        {
+          "categoryId": "9",
+          "category": "Boots",
+          "category_image": "assets/images/subcategories/women_fashion/Boots.jpg",
+          "algolia_search_string": "Boots"
+        },
+
+        {
+          "categoryId": "10",
+          "category": "Heels",
+          "category_image": "assets/images/subcategories/women_fashion/Heels.jpg",
+          "algolia_search_string": "Heels"
+        },
+        {
+          "categoryId": "11",
+          "category": "Sneakers",
+          "category_image": "assets/images/subcategories/women_fashion/Sneakers.jpg",
+          "algolia_search_string": "Sneakers"
+        },
+        {
+          "categoryId": "12",
+          "category": "Flats",
+          "category_image": "assets/images/subcategories/women_fashion/Flats.jpg",
+          "algolia_search_string": "Flats"
+        },
+        {
+          "categoryId": "13",
+          "category": "Sandals",
+          "category_image": "assets/images/subcategories/women_fashion/Sandals.jpg",
+          "algolia_search_string": "Sandals"
+        },
+        {
+          "categoryId": "14",
+          "category": "Bottoms",
+          "category_image": "assets/images/subcategories/women_fashion/Bottoms.jpg",
+          "algolia_search_string": "Bottoms"
+        },
+        {
+          "categoryId": "15",
+          "category": "Shorts",
+          "category_image": "assets/images/subcategories/women_fashion/Shorts.jpg",
+          "algolia_search_string": "Shorts"
+        },
+        {
+          "categoryId": "17",
+          "category": "Underwear",
+          "category_image": "assets/images/subcategories/women_fashion/Under wear.jpg",
+          "algolia_search_string": "Underwear"
+        }
+      ]
+    },
+    {
+      "categoryId": "4",
+      "category_name": "Men's Fashion",
+      "algolia_search_string":"",
+      "subCategories": [
+        {
+          "categoryId": "1",
+          "category": "Tops",
+          "category_image": "assets/images/subcategories/men_fashion/Tops.jpg",
+          "algolia_search_string": "Tops"
+        },
+        {
+          "categoryId": "2",
+          "category": "Jackets",
+          "category_image": "assets/images/subcategories/men_fashion/Jackets.jpg",
+          "algolia_search_string": "Jackets"
+        },
+        {
+          "categoryId": "3",
+          "category": "Hoodies",
+          "category_image": "assets/images/subcategories/men_fashion/Hoodies.jpg",
+          "algolia_search_string": "Hoodies"
+        },
+        {
+          "categoryId": "4",
+          "category": "Formal",
+          "category_image": "assets/images/subcategories/men_fashion/Formal.jpg",
+          "algolia_search_string": "Formal"
+        },
+        {
+          "categoryId": "5",
+          "category": "Work",
+          "category_image": "assets/images/subcategories/men_fashion/Work.jpg",
+          "algolia_search_string": "Work"
+        },
+        {
+          "categoryId": "6",
+          "category": "Sport wear",
+          "category_image": "assets/images/subcategories/men_fashion/Sports wear.jpg",
+          "algolia_search_string": "Sport_wear"
+        },
+        {
+          "categoryId": "7",
+          "category": "Swim wear",
+          "category_image": "assets/images/subcategories/men_fashion/Swim wear.jpg",
+          "algolia_search_string": "Swim_wear"
+        },
+        {
+          "categoryId": "8",
+          "category": "Under wear",
+          "category_image": "assets/images/subcategories/men_fashion/Under wear.jpg",
+          "algolia_search_string": "Under_wear"
+        },
+        {
+          "categoryId": "9",
+          "category": "Sleep wear",
+          "category_image": "assets/images/subcategories/men_fashion/Sleep wear.jpg",
+          "algolia_search_string": "Sleep wear"
+        },
+
+        {
+          "categoryId": "10",
+          "category": "Jeans",
+          "category_image": "assets/images/subcategories/men_fashion/Jeans.jpg",
+          "algolia_search_string": "Jeans"
+        },
+        {
+          "categoryId": "11",
+          "category": "Boots",
+          "category_image": "assets/images/subcategories/men_fashion/Boots.jpg",
+          "algolia_search_string": "Boots"
+        },
+        {
+          "categoryId": "12",
+          "category": "Sneakers",
+          "category_image": "assets/images/subcategories/men_fashion/Sneakers.jpg",
+          "algolia_search_string": "Sneakers"
+        }
+      ]
+    },
+    {
+      "categoryId": "5",
+      "category_name": "Her Accessories",
+      "algolia_search_string": "Her_Accessories",
+      "subCategories": [
+        {
+          "categoryId": "1",
+          "category": "Watches",
+          "category_image": "assets/images/subcategories/her_a/Watches.jpg",
+          "algolia_search_string": "Watches"
+        },
+        {
+          "categoryId": "2",
+          "category": "Purses",
+          "category_image": "assets/images/subcategories/her_a/Purses.jpg",
+          "algolia_search_string": "Purses"
+        },
+        {
+          "categoryId": "3",
+          "category": "Jewellery",
+          "category_image": "assets/images/subcategories/her_a/Jewellery.jpg",
+          "algolia_search_string": "Jewellery"
+        },
+        {
+          "categoryId": "4",
+          "category": "Hats",
+          "category_image": "assets/images/subcategories/her_a/Hats.jpg",
+          "algolia_search_string": "Hats"
+        },
+        {
+          "categoryId": "5",
+          "category": "Belts",
+          "category_image": "assets/images/subcategories/her_a/Belts.jpg",
+          "algolia_search_string": "Belts"
+        },
+        {
+          "categoryId": "6",
+          "category": "Sunglasses",
+          "category_image": "assets/images/subcategories/her_a/sunglasses.jpg",
+          "algolia_search_string": "Sunglasses"
+        },
+        {
+          "categoryId": "7",
+          "category": "Handbags",
+          "category_image": "assets/images/subcategories/her_a/handbags.jpg",
+          "algolia_search_string": "Handbags"
+        }
+      ]
+    },
+    {
+      "categoryId": "6",
+      "category_name": "His Accessories",
+      "algolia_search_string":"",
+      "subCategories": [
+        {
+          "categoryId": "1",
+          "category": "Hats",
+          "category_image": "assets/images/subcategories/his_a/Hats.jpg",
+          "algolia_search_string": "Hats"
+        },
+        {
+          "categoryId": "2",
+          "category": "Belts",
+          "category_image": "assets/images/subcategories/his_a/Belts.jpg",
+          "algolia_search_string": "Belts"
+        },
+        {
+          "categoryId": "3",
+          "category": "Sunglasses",
+          "category_image": "assets/images/subcategories/his_a/sunglasses.jpg",
+          "algolia_search_string": "Sunglasses"
+        },
+        {
+          "categoryId": "4",
+          "category": "Ties",
+          "category_image": "assets/images/subcategories/his_a/Ties.jpg",
+          "algolia_search_string": "Ties"
+        },
+        {
+          "categoryId": "5",
+          "category": "Wallets",
+          "category_image": "assets/images/subcategories/his_a/Wallets.jpg",
+          "algolia_search_string": "Wallets"
+        }
+      ]
+    },
+    {
+      "categoryId": "7",
+      "category_name": "Office",
+      "algolia_search_string":"",
+      "subCategories": [
+        {
+          "categoryId": "1",
+          "category": "Furniture",
+          "category_image": "assets/images/subcategories/Office/Furniture.jpg",
+          "algolia_search_string": "Furniture"
+        },
+        {
+          "categoryId": "2",
+          "category": "Chair",
+          "category_image": "assets/images/subcategories/Office/Chair.jpg",
+          "algolia_search_string": "Chair"
+        },
+        {
+          "categoryId": "3",
+          "category": "Desk",
+          "category_image": "assets/images/subcategories/Office/Desk.jpg",
+          "algolia_search_string": "Desk"
+        }
+      ]
+    },
+    {
+      "categoryId": "8",
+      "category_name": "Sports",
+      "algolia_search_string":"",
+      "subCategories": [
+        {
+          "categoryId": "1",
+          "category": "Clothing",
+          "category_image": "assets/images/subcategories/Sports/Clothing.jpg",
+          "algolia_search_string": "Clothing"
+        },
+        {
+          "categoryId": "2",
+          "category": "Equipment",
+          "category_image": "assets/images/subcategories/Sports/Equipment.jpg",
+          "algolia_search_string": "Equipment"
+        },
+        {
+          "categoryId": "3",
+          "category": "Shoes",
+          "category_image": "assets/images/subcategories/Sports/Shoes.jpg",
+          "algolia_search_string": "Shoes"
+        },
+        {
+          "categoryId": "4",
+          "category": "Accessories",
+          "category_image": "assets/images/subcategories/Sports/Accessories.jpg",
+          "algolia_search_string": "Accessories"
+        }
+      ]
+    },
+    {
+      "categoryId": "9",
+      "category_name": "Home & Kitchen",
+      "algolia_search_string":"Home_&_Kitchen",
+      "subCategories": [
+        {
+          "categoryId": "1",
+          "category": "Laundry",
+          "category_image": "assets/images/subcategories/home_kitchen/Laundry.jpg",
+          "algolia_search_string": "Laundry"
+        },
+        {
+          "categoryId": "2",
+          "category": "Bedding",
+          "category_image": "assets/images/subcategories/home_kitchen/Bedding.jpg",
+          "algolia_search_string": "Bedding"
+        },
+        {
+          "categoryId": "3",
+          "category": "Bath",
+          "category_image": "assets/images/subcategories/home_kitchen/Bath.jpg",
+          "algolia_search_string": "Bath"
+        },
+        {
+          "categoryId": "4",
+          "category": "Dining",
+          "category_image": "assets/images/subcategories/home_kitchen/Dining.jpg",
+          "algolia_search_string": "Dining"
+        },
+        {
+          "categoryId": "5",
+          "category": "Outdoor",
+          "category_image": "assets/images/subcategories/home_kitchen/Outdoor.jpg",
+          "algolia_search_string": "Outdoor"
+        },
+        {
+          "categoryId": "6",
+          "category": "Storage",
+          "category_image": "assets/images/subcategories/home_kitchen/Storage.jpg",
+          "algolia_search_string": "Storage"
+        },
+        {
+          "categoryId": "7",
+          "category": "Kitchen ware",
+          "category_image": "assets/images/subcategories/home_kitchen/kitchen_ware.jpg",
+          "algolia_search_string": "Kitchen_ware"
+        },
+        {
+          "categoryId": "8",
+          "category": "Furniture",
+          "category_image": "assets/images/subcategories/home_kitchen/Furniture.jpg",
+          "algolia_search_string": "Furniture"
+        }
+      ]
+    }
+  ]
+}

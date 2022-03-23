@@ -1,0 +1,28 @@
+{
+  "dashboard_filters": [
+    {
+      "id": "1",
+      "name": "Preloved",
+      "image": "assets/images/time_revind.png",
+      "search_string": ""
+    },
+    {
+      "id": "2",
+      "name": "Digital",
+      "image": "assets/images/cloud.png",
+      "search_string": ""
+    },
+    {
+      "id": "3",
+      "name": "International",
+      "image": "assets/images/globe.png",
+      "search_string": ""
+    },
+    {
+      "id": "4",
+      "name": "Local",
+      "image": "assets/images/store.png",
+      "search_string": ""
+    }
+  ]
+}

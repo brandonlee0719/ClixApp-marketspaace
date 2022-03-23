@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "959745326285",
+    "firebase_url": "https://market-spaace.firebaseio.com",
+    "project_id": "market-spaace",
+    "storage_bucket": "market-spaace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959745326285:android:9bb951090742d908433d84",
+        "android_client_info": {
+          "package_name": "com.marketspace.marketSpace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959745326285-k2esr2m7r5rvbnbjnefph7mqor481akl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEIYFttVCizB1ulgXqRpTyjg2ezv6ivTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959745326285-k2esr2m7r5rvbnbjnefph7mqor481akl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "959745326285-c7lcqbpercccjbj12052r5s941ci2dif.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.marketspace.marketSpace"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
